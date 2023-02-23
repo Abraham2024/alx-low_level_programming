@@ -5,4 +5,20 @@
 /**
  * print_alphabet - print alphabet
  * Description: print alphabet in lowercase
- * Return: 
+ * Return: has no return value
+ */
+
+
+
+void print_alphabet(void)
+{
+	char letter = 'a';
+
+	while (letter <= 'z')
+	{
+		_putchar(letter);
+		letter++;
+	}
+	_putchar('\n');
+}
+
