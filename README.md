@@ -1,1 +1,1 @@
-Task to show the use of strings, arrays and pointers using betty style
+A repository which shows the practical use and applications of c programming in a series of tasks
