@@ -3,9 +3,8 @@
 /**
  * 1-print_binary : prints the binary representation of a number
  *
- * @n : gives value of 1 and 0
+ * @n : gives the number to be printed
  *
- * return : value
  */
 void print_binary(unsigned long int n)
 {
