@@ -2,8 +2,8 @@
 
 /**
  * get_bit:  returns the value of a bit
- * 
- * @n : the value to be printed
+ *
+ *@n : the value to be printed
  *
  * return: n
  */
