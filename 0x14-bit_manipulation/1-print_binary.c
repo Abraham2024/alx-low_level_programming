@@ -2,7 +2,6 @@
 
 /**
  * 1-print_binary : prints the binary representation of a number
- *
  * @n : gives the number to be printed
  *
  */
