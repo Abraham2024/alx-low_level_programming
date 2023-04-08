@@ -22,17 +22,3 @@ unsigned int binary_to_uint(const char *b)
 	}
 	return (value);
 }
-/**
- * This code snippet initializes an unsigned
- * integer j to 0. If b is NULL, it returns 0.
- * It then enters a while loop
- * that checks if the value of *b is true or false
- * If it is true, it checks if the value of *b is not equal to ‘0’ and
- * not equal to ‘1'
- * If it is not equal to either ‘0’ or ‘1’, it returns 0.
- * If it is equal to either ‘0’ or ‘1’, it shifts
- * the value of j one bit to the left and adds 1
- * if the value of *b is equal to ‘1’.
- * Finally, it returns the value of j.
- */
-
