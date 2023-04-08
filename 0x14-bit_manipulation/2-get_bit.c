@@ -3,8 +3,8 @@
 /**
  * get_bit:  returns the value of a bit
  *
- *@n : the value to be printed
- *
+ *@n : the value to be converted
+ @index: index starting from 0 of the bit required
  * return: n
  */
 int get_bit(unsigned long int n, unsigned int index)
